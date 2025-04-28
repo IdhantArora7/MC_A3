@@ -1,0 +1,4 @@
+# ninja log v5
+1	1513	7675549015291699	CMakeFiles/matrixcalculator.dir/native-lib.cpp.o	29b1f2f9589839a5
+7	2622	7675549022283975	CMakeFiles/matrixcalculator.dir/operations.cpp.o	ad95572e03e105a6
+2623	2757	7675549028527361	C:/Users/idhan/Desktop/MC_A3_2022220/Q1/app/build/intermediates/cxx/Debug/4u4i3s13/obj/arm64-v8a/libmatrixcalculator.so	5aad261b9a501a38
